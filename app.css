@@ -1,15 +1,28 @@
 .cuadrado{
-	background: rgb(230, 230, 230);
-	margin: 1.66%;
+	margin: 0.05%;
 	float: left;
-	width: 28%;
-	padding-bottom: 28%;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    text-justify: auto;
 	border: 1px solid black;
-	border-radius: 8.3654%;
+    border-radius: 8.3654%;
+    color: rgb(230, 230, 230);
 }
-#container{
-	max-width: 600px;
-	max-height: 600px;
-	margin: 20px auto;
-	background-color: rgb(230, 230, 230);
+.rojo{
+    background-color: rgb(138, 0, 0);
+}
+.verde{
+    background-color: rgb(63, 180, 85);
+}
+.azul{
+    background-color: rgb(33, 10, 133);
+}
+.container{
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+.info{
+    background-color: rgb(230, 230, 230);
 }
