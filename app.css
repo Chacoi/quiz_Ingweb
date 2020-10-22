@@ -23,6 +23,7 @@
     padding-top: 100px;
 }
 
-.info{
+#info{
     background-color: rgb(230, 230, 230);
+    transition: 0.189s;
 }
