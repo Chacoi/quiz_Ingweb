@@ -1,0 +1,15 @@
+.cuadrado{
+	background: rgb(230, 230, 230);
+	margin: 1.66%;
+	float: left;
+	width: 28%;
+	padding-bottom: 28%;
+	border: 1px solid black;
+	border-radius: 8.3654%;
+}
+#container{
+	max-width: 600px;
+	max-height: 600px;
+	margin: 20px auto;
+	background-color: rgb(230, 230, 230);
+}
